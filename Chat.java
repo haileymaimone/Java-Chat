@@ -2,10 +2,7 @@
 
 //import sun.plugin2.message.Message;
 
-//Ricky Peddicord, Hailey Maimone, Kelli Huff
-//Group 1
-//CET 350
-//ped8697@calu.edu, mai5013@calu.edu, huf2203@calu.edu
+//Hailey Maimone -- Chat Program -- CET250 Technical Computing Using Java
 
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
