@@ -2,7 +2,7 @@
 
 //import sun.plugin2.message.Message;
 
-//Hailey Maimone -- Chat Program -- CET250 Technical Computing Using Java
+//Hailey Maimone -- Chat Program -- CET350 Technical Computing Using Java
 
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
